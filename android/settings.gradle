@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeiOSBridge'
+
+include ':app', ':Counter', ':CounterCheck'
